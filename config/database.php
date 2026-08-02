@@ -1,8 +1,8 @@
 <?php
-// config/database.php - Koneksi PDO ke Database sportdb
+// config/database.php 
 
 $host     = 'localhost';
-$dbname   = 'sportdb';
+$dbname   = '';
 $username = 'root';
 $password = '';
 
